@@ -14,3 +14,4 @@ BuildingEscape/Content/StarterContent/
 # Make sure not to include the Visual Studio database file #
 ############################################################
 *.VC.db
+*.VC.opendb
