@@ -8,10 +8,14 @@
 */DerivedDataCache
 */Intermediate
 */Saved
+*/ipch
 BuildingEscape/Content/StarterContent/
 
 ############################################################
 # Make sure not to include the Visual Studio database file #
 ############################################################
+*.ipch
 *.VC.db
+*.VC.db-shm
+*.VC.db-wal
 *.VC.opendb
